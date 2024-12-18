@@ -1,6 +1,6 @@
 # f1_videos
 
-#requirements
+# requirements
 F1TV subscription
 python
 jupyter notebook
